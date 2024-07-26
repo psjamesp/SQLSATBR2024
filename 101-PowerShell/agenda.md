@@ -2,7 +2,6 @@ Presentation and Demo Script Outline: Introduction to PowerShell Workshop
 
 # Welcome and Introduction (10 minutes)
 
-Introduce yourself and provide an overview of the workshop agenda.
 Briefly explain the importance of PowerShell in automation and system administration.
 # 1. Introduction to PowerShell (1 hour)
 
